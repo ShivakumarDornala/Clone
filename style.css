@@ -66,7 +66,7 @@ body {
   border-radius: 4px;
 }
 .seach-select {
-  background-color: rgb(197, 191, 191);
+  background-color: rgb(222, 217, 217);
   width: 50px;
   text-align: center;
   border-top-left-radius: 4px;
@@ -85,7 +85,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #febd38;
+  background: #f5b432;
   border-top-right-radius: 4px;
   border-bottom-right-radius: 4px;
   color: #0f1111;
@@ -103,7 +103,7 @@ body {
   justify-content: center;
   align-items: center;
   margin-left: 2px;
-  background-color: #0f1111;
+  background-color: #0c0e0e;
   color: #ffffff;
   text-decoration: none;
 }
