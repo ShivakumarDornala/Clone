@@ -274,7 +274,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #3b5069;
+  background-color: #374d67;
   color: white;
   font-weight: 400;
 }
@@ -294,7 +294,7 @@ ul a {
 a {
   font-size: 14px;
   margin-top: 9px;
-  color: rgba(249, 247, 247, 0.848);
+  color: rgba(241, 236, 236, 0.848);
 }
 .panel2-p {
   margin-top: 30px;
@@ -329,7 +329,7 @@ a {
 .footer-copyright1 {
   height: 40px;
   font-size: 12px;
-  background-color: #222f3d;
+  background-color: #243444;
   color: #f3f3f3cc;
   display: flex;
   justify-content: center;
