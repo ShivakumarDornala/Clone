@@ -165,7 +165,7 @@ body {
   top: 20%;
   z-index: 1;
   padding: 5vh 1vw;
-  background: rgba(231, 231, 231, 0.785);
+  background: rgba(165, 162, 162, 0.785);
   color: black;
   text-decoration: none;
   font-weight: 600;
@@ -186,13 +186,13 @@ body {
   flex-direction: column;
   gap: 10px;
   padding: 15px 15px 15px 15px;
-  background: white;
+  background: rgb(235, 233, 233);
   min-height: 250px;
   max-width: 22%;
   z-index: 1;
 }
 .param {
-  color: rgb(82, 111, 190);
+  color: rgb(76, 109, 198);
   font-weight: 500;
 }
 .box1-row {
@@ -294,7 +294,7 @@ ul a {
 a {
   font-size: 14px;
   margin-top: 9px;
-  color: rgba(255, 255, 255, 0.848);
+  color: rgba(249, 247, 247, 0.848);
 }
 .panel2-p {
   margin-top: 30px;
@@ -308,7 +308,7 @@ a {
   justify-content: center;
 }
 .footer-logo {
-  background-color: #232f3e;
+  background-color: #273648;
   color: white;
   display: flex;
   justify-content: center;
@@ -316,7 +316,7 @@ a {
 }
 .footer-copyright {
   height: 100px;
-  background-color: #222f3d;
+  background-color: #243446;
   color: #f3f3f3ca;
   display: flex;
   justify-content: center;
